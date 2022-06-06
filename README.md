@@ -1,12 +1,7 @@
----
-description: Notes for a system-agnostics RPG kit. [Watch this space!]
-layout: landing
----
+# Welcome to Monsters and Magic
 
-# Introduction
+## About M\&M
 
-#### This document is a working Game Master kit for creating and running RPG adventures. As such it is such to change.
+This is site for all things related helping me run RPG's. **All content is subject to change as this is a working document.**
 
-1. [How to create an adventure](creating-an-rpg-adventure.md)
-
-###
+***
